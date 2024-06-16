@@ -1,0 +1,11 @@
+@import url(Navegation.css);
+@import url(ConteudoUm.css);
+@import url(ConteudoDois.css);
+
+body {
+    max-width: 1200px;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    background-color: black;
+    color: white;
+}
