@@ -61,7 +61,7 @@
                    width: 100%;
                  }
                
-                 .bnt button:active {
+              .SECFront button:active {
                    transform: translate(0.2em, 0.2em);
                    box-shadow: 0.2em 0.2em;
                  }

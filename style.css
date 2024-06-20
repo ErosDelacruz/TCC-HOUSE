@@ -1,6 +1,7 @@
 @import url(Navegation.css);
 @import url(ConteudoUm.css);
 @import url(ConteudoDois.css);
+@import url(ConteudoTres.css);
 
 body {
     max-width: 1200px;
@@ -8,4 +9,10 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif ;
     background-color: black;
     color: white;
+}
+
+
+main {
+    max-width: 1200px;
+    margin: auto;
 }
