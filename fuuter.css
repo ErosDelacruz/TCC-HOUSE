@@ -1,0 +1,33 @@
+.fuuter 
+{
+                   
+                   width: 100%;
+                   height: 250px;
+}
+
+
+.fuuter .logo img {
+    width: 80px;
+    border-radius: 70%;
+    border: 5px solid purple;
+    height: 80px;
+}
+
+footer a {
+                   text-decoration: none;
+                   color: white;
+               }
+               
+               
+               
+               
+footer {
+                   display: flex;
+                   justify-content: space-around;
+                   margin-top: 16px;
+               }
+
+
+footer {
+                   margin-top: 100px;
+}

@@ -1,9 +1,10 @@
 @import url(Navegation.css);
 @import url(ConteudoUm.css);
 @import url(ConteudoDois.css);
-@import url(ConteudoTres.css);
+@import url(fuuter.css);
 
 body {
+    padding: 0px;
     max-width: 1200px;
     margin: auto;
     font-family: Georgia, 'Times New Roman', Times, serif ;
