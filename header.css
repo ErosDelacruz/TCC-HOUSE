@@ -1,0 +1,11 @@
+body > header
+{
+   background-color: #111;
+   color: #ffff;
+   font-size: 24px;
+   padding: 20px;
+   
+
+   display: flex;
+   justify-content:center ;
+}
